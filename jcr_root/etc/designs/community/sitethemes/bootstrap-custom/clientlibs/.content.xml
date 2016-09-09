@@ -3,4 +3,4 @@
     jcr:mixinTypes="[cq:ReplicationStatus]"
     jcr:primaryType="cq:ClientLibraryFolder"
     categories="[cq.social.console.theme.bootstrap-custom]"
-    dependencies="[cq.social.console.theme.scfskin]"/>
+    dependencies="[cq.social.bootstrap.3,cq.social.console.theme.scfskin]"/>
