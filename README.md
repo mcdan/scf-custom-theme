@@ -16,7 +16,8 @@ Steps
     using crx package manager
 
 
-** Use a Downloaded theme **
+**Use a Downloaded theme**
+
 1. Clone https://github.com/arunpon/scf-custom-theme
 2. Download a theme, e.g.: https://startbootstrap.com/template-overviews/clean-blog/
 3. Take all the non minified js from the downloaded theme and add them to:  jcr_root/etc/designs/community/sitethemes/bootstrap-custom/clientlibs/js
